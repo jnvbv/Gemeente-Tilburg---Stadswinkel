@@ -1,0 +1,11 @@
+<Device Model="CP4">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="AM-3200" DeviceId="2C" Name="r29:AM-3200"/>
+      <Device Model="UC-ENGINE-FLEX-TEAMS" DeviceId="7C" Name="r29:UC-ENGINE-FLEX-TEAMS"/>
+      <Device Model="DM-NVX-35x" DeviceId="B8" Name="r29: DM-NVX-35x NVX-01 TX"/>
+      <Device Model="DM-NVX-36x" DeviceId="B9" Name="r29: DM-NVX-36x NVX-02 RX"/>
+      <Device Model="DM-NVX-36x" DeviceId="BA" Name="r29: DM-NVX-36x NVX-03 RX"/>
+      <Device Model="DM-NVX-36x" DeviceId="BB" Name="r29: DM-NVX-36x NVX-04 TX"/>
+   </Network>
+</Device>

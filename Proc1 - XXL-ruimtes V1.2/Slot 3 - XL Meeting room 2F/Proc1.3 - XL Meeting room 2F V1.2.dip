@@ -1,0 +1,17 @@
+[IPTable]
+id0=2C
+addr0=127.0.0.1
+id1=7C
+addr1=127.0.0.1
+id2=B8
+addr2=127.0.0.1
+id3=B9
+addr3=127.0.0.1
+id4=BA
+addr4=127.0.0.1
+id5=BB
+addr5=127.0.0.1
+id6=BC
+addr6=10.210.82.101
+id7=BD
+addr7=10.210.82.100

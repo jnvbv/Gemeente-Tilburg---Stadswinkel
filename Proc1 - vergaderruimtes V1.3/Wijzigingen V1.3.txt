@@ -1,0 +1,6 @@
+V1.3 7-8-2024 AvD:
+- 1.086 toegevoegd (r28) op plaats van 2L welke vervallen is.
+
+
+V1.2 8-2-2024 AvD:
+- 3x XL-ruimtes uit hoofdprogramma gehaald
